@@ -11,3 +11,6 @@ https://downloads.psl.noaa.gov/Datasets/ncep.reanalysis.derived/pressure/omega.m
 https://downloads.psl.noaa.gov/Datasets/ncep.reanalysis.derived/pressure/vwnd.mon.mean.nc
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
+
+![psi_zmean_monclim](https://user-images.githubusercontent.com/76565450/162641912-96dcc725-e629-459b-b416-d241c12bb801.gif)
+
