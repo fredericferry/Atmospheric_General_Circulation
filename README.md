@@ -47,16 +47,8 @@ Notebook 2 :
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 Notebook 3 :
-- illustrate the difference between a zonal anomaly and a transient anomaly :
-$$z' = z-\overline{z}$$
-$$z^* = z-[z]$$
-- Demonstrate the decomposition :
-
-Composante axisymétrique et stationnaire de la circulation : $$\overline{[z]}$$
-Perturbation transitoire de la moyenne zonale : $$[z]'$$
-Perturbation transitoire non axisymétrique : $$z^{*'}$$
-Ecart stationnaire à la moyenne zonale : $$\overline{z^*}$$
-
+- illustrate the difference between a zonal anomaly and a transient anomaly
+- Demonstrate that a field can be decomposed in 4 components (axisymetric and stationnary, transient anomaly of the zonal mean, non-axisymetric transient anomaly, stationnay anomaly of the zonal mean)
 
 ![z2000-01-01](https://user-images.githubusercontent.com/76565450/196167872-c1cd4759-6bf6-4681-8480-13b22daa5325.png)
 ![z_decomp_2000-01-01](https://user-images.githubusercontent.com/76565450/196167883-4750ce04-0580-4cc9-8df1-a057ff62acd7.png)
@@ -73,10 +65,6 @@ Notebook 4 :
 
 Notebook 5 :
 - Study the meridional eddy heat and momemtum fluxes
-
-$$[\overline{u'v'}], [\overline{v'T'}]$$
-$$[\overline{v^*}\overline{T^*}], [\overline{u^*}\overline{v^*}]$$
-
 
 ![eddy_heat_flux_seasonal](https://user-images.githubusercontent.com/76565450/196168239-5b948a2a-1a7d-4368-aad5-27ee1bbfa606.png)
 ![stat_heat_flux_seasonal](https://user-images.githubusercontent.com/76565450/196168311-e9e6d188-8143-4fe0-afca-a5a7d3327e19.png)
