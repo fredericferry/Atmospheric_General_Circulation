@@ -43,7 +43,7 @@ Notebook 1 :
 Notebook 2 : 
 - Study the Hadley cell in vertical velocity and meridional wind fields
 - Compute the Hadley Meridional Overturning Circulation from NCEP monthly reanalysis data
-- 
+
 ![wv_zmean_climatology](https://user-images.githubusercontent.com/76565450/196170449-a76bd9a9-49c4-4d76-8538-26b0f9c1c12f.png)
 ![psi_zmean_monclim](https://user-images.githubusercontent.com/76565450/162641912-96dcc725-e629-459b-b416-d241c12bb801.gif)
 
