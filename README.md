@@ -4,6 +4,8 @@ Note 1 : This code was developed for educationnal purposes, and for French stude
 
 Note 2 : If you have any comment/suggestion, if you find this code useful --> please send me an email : mailto:frederic.ferry@meteo.fr
 
+THIS CODE IS NOT FULLY FUNCTIONNAL, YOU WILL HAVE TO CODE SOME MISSING PARTS (THIS SHOULD NOT BE TOO DIFFICULT).
+
 The gridded data needed to run the notebook are NOT provided
 
 Get the monthly data here :
