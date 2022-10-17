@@ -51,7 +51,7 @@ Notebook 3 :
 $$z' = z-\overline{z}$$
 $$z^* = z-[z]$$
 - Demonstrate the decomposition :
-$z=\overline{[z]}+\overline{z^*}+[z]'+z^{*'}$
+$z=\overline{[z]}$
 
 ![z2000-01-01](https://user-images.githubusercontent.com/76565450/196167872-c1cd4759-6bf6-4681-8480-13b22daa5325.png)
 ![z_decomp_2000-01-01](https://user-images.githubusercontent.com/76565450/196167883-4750ce04-0580-4cc9-8df1-a057ff62acd7.png)
