@@ -32,7 +32,7 @@ Replace XXXX by the desired year. The code needs the 2000-2005 daily data. You w
 
 Notebook 1 (inspired by Stull : https://geo.libretexts.org/Bookshelves/Meteorology_and_Climate_Science/Book%3A_Practical_Meteorology_(Stull)/11%3A_General_Circulation/11.02%3A_Section_3-):
 - Study the zonal mean radiative budget from CERES data.
-- Derive an analytic approximation of the radiative budget to highlight the radiative differential heating (inspired by Stull : 
+- Derive an analytic approximation of the radiative budget to highlight the radiative differential heating
 - Compute the required heat transport by the global circulation to compensate radiative differential heating.
 
 ![TOA_rad_budget_zonal_annual_analytic](https://user-images.githubusercontent.com/76565450/196165672-c83ad076-ba6a-4d8d-8cfe-d072f65c5645.png)
