@@ -7,24 +7,22 @@ Note 2 : If you have any comment/suggestion, if you find this code useful --> pl
 The gridded data needed to run the notebook are NOT provided
 
 Get the monthly data here :
-https://downloads.psl.noaa.gov/Datasets/ncep.reanalysis.derived/pressure/omega.mon.mean.nc
-https://downloads.psl.noaa.gov/Datasets/ncep.reanalysis.derived/pressure/uwnd.mon.mean.nc
-https://downloads.psl.noaa.gov/Datasets/ncep.reanalysis.derived/pressure/vwnd.mon.mean.nc
-https://downloads.psl.noaa.gov/Datasets/ncep.reanalysis.derived/pressure/omega.mon.mean.nc
+- https://downloads.psl.noaa.gov/Datasets/ncep.reanalysis.derived/pressure/omega.mon.mean.nc
+- https://downloads.psl.noaa.gov/Datasets/ncep.reanalysis.derived/pressure/uwnd.mon.mean.nc
+- https://downloads.psl.noaa.gov/Datasets/ncep.reanalysis.derived/pressure/vwnd.mon.mean.nc
+- https://downloads.psl.noaa.gov/Datasets/ncep.reanalysis.derived/pressure/omega.mon.mean.nc
 
 Daily NCEP data are available here :
-ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis.dailyavgs/pressure/hgt.XXXX.nc
-ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis.dailyavgs/pressure/air.XXXX.nc
-ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis.dailyavgs/pressure/uwnd.XXXX.nc
-ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis.dailyavgs/pressure/vwnd.XXXX.nc
+- ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis.dailyavgs/pressure/hgt.XXXX.nc
+- ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis.dailyavgs/pressure/air.XXXX.nc
+- ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis.dailyavgs/pressure/uwnd.XXXX.nc
+- ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis.dailyavgs/pressure/vwnd.XXXX.nc
 
-Replace XXXX by the desired year. You will then have to concatenate the data in one file (Il faut télécharger au moins la période 2000-2005 et ensuite concaténer les fichier netcdf avec les commandes NCO ncrcat ou CDO mergetime :
-
+Replace XXXX by the desired year. The code needs the 2000-2005 daily data. You will have to concatenate the yearly NCEP data in one file with NCO ncrcat command or CDO mergetime command:
 - https://linux.die.net/man/1/ncrcat
 - https://code.mpimet.mpg.de/projects/cdo/embedded/index.html#x1-930002.2.6
 
---> fichier z.nc
-
+--> files z.nc, t.nc, u.nc, v.nc
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
