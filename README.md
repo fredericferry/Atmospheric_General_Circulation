@@ -53,8 +53,8 @@ Notebook 3 :
 - Illustrate the difference between a zonal anomaly and a transient anomaly
 - Demonstrate that a field can be decomposed in 4 components (axisymetric and stationnary, transient anomaly of the zonal mean, non-axisymetric transient anomaly, stationnary anomaly of the zonal mean)
 
-![z2000-01-01](https://user-images.githubusercontent.com/76565450/196167872-c1cd4759-6bf6-4681-8480-13b22daa5325.png)
-![z_decomp_2000-01-01](https://user-images.githubusercontent.com/76565450/196167883-4750ce04-0580-4cc9-8df1-a057ff62acd7.png)
+![z2015-01-01](https://user-images.githubusercontent.com/76565450/196910830-f5da86aa-c549-409c-91a3-10c6705d6963.png)
+![z_decomp_2015-01-01](https://user-images.githubusercontent.com/76565450/196910873-a84fdbd7-37b5-4749-a6a2-bbfea19baf39.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -62,17 +62,14 @@ Notebook 4 :
 - Study the stationnary anomalies from zonal mean of the geopotential field
 - Compute the streamfunction from zonal and meridional winds and study the stationnary anomalies from zonal mean of the streamfunction field
 
-![z200_anomaly_global_climatology](https://user-images.githubusercontent.com/76565450/196167942-8cd81b58-c99e-422f-b229-dd150872a793.png)
+![z200_anomaly_global_climatology](https://user-images.githubusercontent.com/76565450/196910933-07f50dee-e194-4ae7-bf15-252945121e77.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 Notebook 5 :
 - Study the meridional heat and momemtum fluxes by stationnary and transient eddies
 
-![eddy_heat_flux_seasonal](https://user-images.githubusercontent.com/76565450/196168239-5b948a2a-1a7d-4368-aad5-27ee1bbfa606.png)
-![stat_heat_flux_seasonal](https://user-images.githubusercontent.com/76565450/196168311-e9e6d188-8143-4fe0-afca-a5a7d3327e19.png)
-![eddy_momentm_flux_seasonal](https://user-images.githubusercontent.com/76565450/196168253-ab04136d-260e-42ae-881a-172a7a1e7b52.png)
-![stat_momentm_flux_seasonal](https://user-images.githubusercontent.com/76565450/196168337-e40a4a48-e204-4817-906b-51bc5b275eca.png)
-
-
-
+![eddy_heat_flux_seasonal](https://user-images.githubusercontent.com/76565450/196911112-fe611049-dbd3-473c-82f5-85d934a39076.png)
+![stat_heat_flux_seasonal](https://user-images.githubusercontent.com/76565450/196911251-04d063fc-6aae-4da8-828a-c9cb85627920.png)
+![eddy_momentm_flux_seasonal](https://user-images.githubusercontent.com/76565450/196911158-c3890e7c-9f16-4c43-859b-527301b4d647.png)
+![stat_momentm_flux_seasonal](https://user-images.githubusercontent.com/76565450/196911228-4c1fa8f7-10e2-44ef-81c9-d95539f4963d.png)
