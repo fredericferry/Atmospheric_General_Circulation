@@ -11,10 +11,11 @@ The gridded data needed to run the notebook are NOT provided
 Get the CERES data here : https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF_Edition4.1
 
 Get the monthly data here :
-- https://downloads.psl.noaa.gov/Datasets/ncep.reanalysis.derived/pressure/omega.mon.mean.nc
-- https://downloads.psl.noaa.gov/Datasets/ncep.reanalysis.derived/pressure/uwnd.mon.mean.nc
-- https://downloads.psl.noaa.gov/Datasets/ncep.reanalysis.derived/pressure/vwnd.mon.mean.nc
-- https://downloads.psl.noaa.gov/Datasets/ncep.reanalysis.derived/pressure/omega.mon.mean.nc
+- ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis.derived/pressure/air.mon.mean.nc
+- ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis.derived/pressure/uwnd.mon.mean.nc
+- ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis.derived/pressure/vwnd.mon.mean.nc
+- ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis.derived/pressure/omega.mon.mean.nc
+- ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis.derived/pressure/shum.mon.mean.nc
 
 Daily NCEP data are available here :
 - ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis.dailyavgs/pressure/hgt.XXXX.nc
