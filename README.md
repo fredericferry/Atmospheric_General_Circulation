@@ -80,5 +80,6 @@ Notebook 6 :
 
 ![eddy_heat_flux_seasonal](https://user-images.githubusercontent.com/76565450/196911112-fe611049-dbd3-473c-82f5-85d934a39076.png)
 ![stat_heat_flux_seasonal](https://user-images.githubusercontent.com/76565450/196911251-04d063fc-6aae-4da8-828a-c9cb85627920.png)
-![eddy_momentm_flux_seasonal](https://user-images.githubusercontent.com/76565450/196911158-c3890e7c-9f16-4c43-859b-527301b4d647.png)
-![stat_momentm_flux_seasonal](https://user-images.githubusercontent.com/76565450/196911228-4c1fa8f7-10e2-44ef-81c9-d95539f4963d.png)
+![eddy_momentum_flux_seasonal](https://user-images.githubusercontent.com/76565450/196969408-565af054-856f-442c-b980-edc088ab600e.png)
+![stat_momentum_flux_seasonal](https://user-images.githubusercontent.com/76565450/196969490-36af6c18-98e6-483c-90f4-8a6f906df080.png)
+
