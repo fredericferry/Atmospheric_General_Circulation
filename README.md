@@ -71,21 +71,15 @@ Notebook 3 :
 Notebook 4 :
 - Illustrate the difference between a zonal anomaly and a transient anomaly
 - Demonstrate that a field can be decomposed in 4 components (axisymetric and stationnary, transient anomaly of the zonal mean, non-axisymetric transient anomaly, stationnary anomaly of the zonal mean)
+- Compute and decompose meridional transports of heat and momentum
 
 ![z2015-01-01](https://user-images.githubusercontent.com/76565450/196910830-f5da86aa-c549-409c-91a3-10c6705d6963.png)
 ![z_decomp_2015-01-01](https://user-images.githubusercontent.com/76565450/196910873-a84fdbd7-37b5-4749-a6a2-bbfea19baf39.png)
+![eddy_heat_flux_decomposition_2021-01-01-2021-03-31](https://user-images.githubusercontent.com/76565450/198373204-9f62818c-8825-47bb-a823-387ac8d24799.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 Notebook 5 :
-- Study the stationnary anomalies from zonal mean of the geopotential field
-- Compute the streamfunction from zonal and meridional winds and study the stationnary anomalies from zonal mean of the streamfunction field
-
-![z200_anomaly_global_climatology](https://user-images.githubusercontent.com/76565450/196910933-07f50dee-e194-4ae7-bf15-252945121e77.png)
-
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Notebook 6 :
 - Study the meridional heat and momemtum fluxes by stationnary and transient eddies
 
 ![eddy_heat_flux_seasonal](https://user-images.githubusercontent.com/76565450/196911112-fe611049-dbd3-473c-82f5-85d934a39076.png)
